@@ -2,6 +2,8 @@
 
 A simple hungry snake game written in masm 8086 assembly language.
 
+Author: iu_oi
+
 ---
 
 ***compile***
