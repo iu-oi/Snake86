@@ -1,14 +1,12 @@
-# snake86
+# Snake86
 
-A simple hungry snake game written in masm 8086 assembly language.
+a hungry snake game in masm 8086 assembly
 
 Author: iu_oi
 
----
+## compile & run
 
-***compile***
-
-DOSBox 0.74 or any DOS you want
+This program should run on a DOS.
 
 `masm snake86.asm`
 
@@ -16,14 +14,12 @@ DOSBox 0.74 or any DOS you want
 
 `snake86.exe`
 
----
+## gameplay
 
-***how to play***
+Use W, A, S, D to steer your snake.
 
-- Use WASD to steer your snake.
-- 1 apple = 1 score = 1 body length
-- Hitting the wall or your body is fatal.
+1 apple = 1 score = 1 body length
 
----
+Hitting the wall or your body is fatal.
 
 ***HAVE FUN!!!***
